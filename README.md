@@ -10,7 +10,7 @@ Two decades in IT and AV systems for higher education, MSc in Cyber Security, Ph
 
 **What I work on**
 - 🖧 **Networks & systems:** Windows Server / Active Directory, DNS, MikroTik routing & VLANs, Linux servers
-- 🌐 **Web hosting & WordPress** for businesses — [MakeTech](https://maketech.eu) · co-owner of [System Net](https://systemnet.gr)
+- 🌐 **Web hosting & WordPress** for businesses — [MakeTech](https://maketech.eu)
 - 🔐 **Security:** server hardening, incident response, malware clean-up
 - 🔧 **Building things:** small business tools in plain JavaScript, Python automation, ESP32 projects
 
