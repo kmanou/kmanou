@@ -15,7 +15,7 @@ Two decades in IT and AV systems for higher education, MSc in Cyber Security, Ph
 - 🔧 **Building things:** small business tools in plain JavaScript, Python automation, ESP32 projects
 
 **Projects**
-- **Μάστορας** — free, single-file app for tradespeople: quotes, pro-forma invoices, maintenance contracts and a client book. Data stays on your own computer. *(GPL-3.0, coming soon)*
+- **[Μάστορας](https://github.com/kmanou/mastoras)** — free, single-file app for tradespeople: quotes, pro-forma invoices, maintenance contracts and a client book. Data stays on your own computer. *(GPL-3.0)* · [try it online](https://kmanou.github.io/mastoras/)
 
 **Stack:** `Python` `JavaScript` `HTML/CSS` `Windows Server` `Linux` `MikroTik RouterOS` `WordPress` `ESP32`
 
